@@ -1,5 +1,3 @@
-Here’s a tailored README.md file for your **Todo Application** project:
-
 ---
 
 # 📋 Todo Application
@@ -82,5 +80,3 @@ For any queries or collaborations:
 **GitHub**:[ [GitHub Profile]  ](https://github.com/Nitish2773)
 
 --- 
-
-Let me know if you’d like to make additional tweaks!
